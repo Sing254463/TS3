@@ -20,7 +20,7 @@
         </div>
     <br>
         <div class="form">
-            <form>
+            <form action="" method="post"></form>
                     <div class="mb-3">
                         <label for="disabledTextInput" class="form-label">ชื่อผู้ใช้</label>
                         <input type="text" id="disabledTextInput" class="form-control" placeholder="ชื่อผู้ใช้">
@@ -33,10 +33,12 @@
                     </div>
                     <div class="button">
                     <button type="submit" class="btn btn-success">เข้าสู่ระบบ</button>
-                    <button type="submit" class="btn btn-secondary">สมัคสมาชิก</button>
+
+                    <a href="Apply.php" class="btn btn-primary" role="button" data-bs-toggle="button">สมัคสมาชิก</a>
                     <br>
-                    <button type="submit" class="btn btn-primary">ลืมรหัสผ่าน</button>
+                    <a href="#" class="btn btn-primary" role="button" data-bs-toggle="button">ลืมรหัสผ่าน</a>
                     </div>
+
                 </form>
         <br>
         </div>

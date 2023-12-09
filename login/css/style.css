@@ -25,9 +25,9 @@
 }
 
 .button .btn{
-    margin: 0px 0px 10px 0px;
-    width: 100px;
-    height: 45px;
+    margin: 10px 10px 10px 10px;
+    /* width: 100px;
+    height: 45px; */
     font-size: 15px;
 }
 
