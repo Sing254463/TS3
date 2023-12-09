@@ -1,24 +1,32 @@
 
-.container{
-    background-color: gray;
-    border-radius: 30px;
-}
 .box{
-    background-color: gray;
-    width: 500px;
-
+    /* background-color: gray; */
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
     display: block;
     margin: auto;
-    border: solid black;
+    border: solid black 1px;
 }
 .head{
-    background-color: rgb(0, 110, 255);
+    background-color: rgb(0, 174, 255);
     height: 50px;
     text-align: center;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    color: white;
 }
 
 
 .form {
-    margin: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.btn{
+    margin: 0px 0px 10px 0px;
+    width: 150px;
+    height: 50px;
 }
 

@@ -11,18 +11,18 @@
 <body>
     <?php
     require("navbarlogin.php");
-    echo str_repeat("<br>", 5);
+    echo str_repeat("<br>", 2);
     ?>
 
     <div class="box">
         <div class="head">
-            <h3>เข้าสู่ระบบ</h3>
+            <h2>เข้าสู่ระบบ</h2>
         </div>
 
         <div class="form">
             <form>
                     <div class="mb-3">
-                        <label for="disabledTextInput" class="form-label">รหัสผ่าน</label>
+                        <label for="disabledTextInput" class="form-label">ชื่อผู้ใช้</label>
                         <input type="text" id="disabledTextInput" class="form-control" placeholder="ชื่อผู้ใช้">
                     </div>
                     <div class="mb-3">
@@ -31,9 +31,13 @@
                     </div>
                     <div class="mb-3">
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-            </form>
-
+                    <div class="button">
+                    <button type="submit" class="btn btn-success">เข้าสู่ระบบ</button>
+                    <button type="submit" class="btn btn-secondary">สมัคสมาชิก</button>
+                    <br>
+                    <button type="submit" class="btn btn-primary">ลืมรหัสผ่าน</button>
+                    </div>
+                </form>
         <br>
         </div>
     </div>
