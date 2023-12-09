@@ -34,9 +34,9 @@
                     <div class="button">
                     <button type="submit" class="btn btn-success">เข้าสู่ระบบ</button>
 
-                    <a href="Apply.php" class="btn btn-primary" role="button" data-bs-toggle="button">สมัคสมาชิก</a>
+                    <a href="apply.php" class="btn btn-secondary" role="button">สมัคสมาชิก</a>
                     <br>
-                    <a href="#" class="btn btn-primary" role="button" data-bs-toggle="button">ลืมรหัสผ่าน</a>
+                    <a href="apply.php" class="btn btn-primary" role="button">ลืมรหัสผ่าน</a>
                     </div>
 
                 </form>
