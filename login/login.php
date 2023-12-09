@@ -22,7 +22,7 @@
         <div class="form">
             <form>
                     <div class="mb-3">
-                        <label for="disabledTextInput" class="form-label">ชื่อผู้ใช้</label>
+                        <label for="disabledTextInput" class="form-label">รหัสผ่าน</label>
                         <input type="text" id="disabledTextInput" class="form-control" placeholder="ชื่อผู้ใช้">
                     </div>
                     <div class="mb-3">
