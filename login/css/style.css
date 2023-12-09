@@ -1,5 +1,4 @@
 
-
 .container{
     background-color: gray;
 }
@@ -16,3 +15,8 @@
     height: 50px;
     text-align: center;
 }
+
+.form {
+    margin: 10px 10px 10px 10px;
+}
+
