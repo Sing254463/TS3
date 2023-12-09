@@ -1,6 +1,7 @@
 
 .container{
     background-color: gray;
+    border-radius: 30px;
 }
 .box{
     background-color: gray;
@@ -8,13 +9,14 @@
 
     display: block;
     margin: auto;
-    border: 50px;
+    border: solid black;
 }
-.head h3{
+.head{
     background-color: rgb(0, 110, 255);
     height: 50px;
     text-align: center;
 }
+
 
 .form {
     margin: 10px 10px 10px 10px;
