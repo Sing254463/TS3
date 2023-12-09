@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>login</title>
+    <title>resetpass</title>
 </head>
-
 <body>
-    <?php
+<?php
     require("navbarlogin.php");
     echo str_repeat("<br>", 2);
     ?>
@@ -41,5 +40,4 @@
         </div>
     </div>
 </body>
-
 </html>
