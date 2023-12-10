@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>apply</title>
-</head>
-<body>
+
 <?php
-    require("navbarlogin.php");
+    require("deaderandfooter/header.php");
     echo str_repeat("<br>", 2);
     ?>
     <div class="box">
@@ -50,5 +43,6 @@
         <br>
         </div>
     </div>
-</body>
-</html>
+    <?php
+    require("deaderandfooter/footer.php");
+    ?>
