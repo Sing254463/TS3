@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-md-3.col-sm-6.col-xs-12.float-shadow">
                 <div class="price_table_box">
-                    <div class="pice_table_head">
+                    <div class="price_table_head">
                         "80 USER"
                         <br>
                         "จากราคาปกติ"
@@ -111,6 +111,7 @@
                     </div>
 
                 </div>
+                
             </div>
 
 
