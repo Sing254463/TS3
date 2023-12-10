@@ -41,47 +41,52 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse container" id="navbarTogglerDemo03">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link active" style="text-align: center;" aria-current="page" href="#">
-                <i class="bi bi-house-fill "></i><br>
-                หน้าแรก</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link"style="text-align: center;" aria-current="page" href="#">
-                <i class="bi bi-box-arrow-right"></i><br>
-                ระบบสมาชิก</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link"style="text-align: center;" aria-current="page" href="#">
-                <i class="bi bi-youtube"></i><br>
-                คลิปสอนเช่า TS3</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" style="text-align: center;"aria-current="page" href="#">
-                <i class="bi bi-download"></i></i><br>
-                ดาวโหลด TS3</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link"style="text-align: center;" aria-current="page" href="#">
-                <i class="bi bi-cloud-arrow-down-fill"></i></i><br>
-            ดาวโหลด ICON TS3</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link"style="text-align: center;" aria-current="page" href="#">
-                <i class="bi bi-telephone-fill"></i><br>
-            ติดต่อสอบถาม</a>
-            </li>
-        </ul>
-    </div>
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        
+                    </ul>
+                    <form class="d-flex container" role="search">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" style="text-align: center;" aria-current="page" href="#">
+                                <i class="bi bi-house-fill "></i><br>
+                                หน้าแรก</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="text-align: center;" aria-current="page" href="#">
+                                <i class="bi bi-box-arrow-right"></i><br>
+                                ระบบสมาชิก</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="text-align: center;" aria-current="page" href="#">
+                                <i class="bi bi-youtube"></i><br>
+                                คลิปสอนเช่า TS3</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="text-align: center;" aria-current="page" href="#">
+                                <i class="bi bi-download"></i></i><br>
+                                ดาวโหลด TS3</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="text-align: center;" aria-current="page" href="#">
+                                <i class="bi bi-cloud-arrow-down-fill"></i></i><br>
+                                ดาวโหลด ICON TS3</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="text-align: center;" aria-current="page" href="#">
+                                <i class="bi bi-telephone-fill"></i><br>
+                                ติดต่อสอบถาม</a>
+                        </li>
+                    </ul>
+      </form>
                 </div>
             </div>
         </div>
+        </div>
     </nav>
-    
-    
-    
-    
+
+
+
+
     <script>
         window.onscroll = function() {
             myFunction()
