@@ -1,4 +1,3 @@
-
 <?php
     require("deaderandfooter/header.php");
     echo str_repeat("<br>", 2);
