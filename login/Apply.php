@@ -3,6 +3,8 @@
     require("deaderandfooter/header.php");
     echo str_repeat("<br>", 2);
     ?>
+
+    
     <div class="box">
         <div class="head">
             <h2>สมัคสมาชิก</h2>
@@ -43,6 +45,9 @@
         <br>
         </div>
     </div>
+
+
+    
     <?php
     require("deaderandfooter/footer.php");
     ?>
