@@ -1,6 +1,11 @@
 <?php
 require("headandfooter/head.php");
 ?>
+<?php
+include("home/for.php");
+?>
+
+
 
 <div class="container">
     <div class="row g-0 text-center">
@@ -31,7 +36,7 @@ Authorized TeamSpeak Host Provider (ATHP)
         </div>
     </div>
 </div>
-
+<br>
 
 
 <?php

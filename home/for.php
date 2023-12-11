@@ -1,8 +1,6 @@
- <?php
-            require("../headandfooter/head.php");
-            ?>
 
-    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="home/css/style.css">
 
 
 
@@ -12,7 +10,7 @@
            
             <?php
             // Read JSON data from file
-            $jsonFile = 'for.json';
+            $jsonFile = 'home/for.json';
             $jsonData = file_get_contents($jsonFile);
 
             // Decode JSON to PHP array
@@ -128,9 +126,3 @@
             ?>
         </div>
     </div>
-
-    
-
-<?php
-require("../headandfooter/footer.php");
-?>
