@@ -1,11 +1,11 @@
 <head>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="for.css">
 </head>
-
 
 <?php
     require("../headandfooter/head.php");
     ?>
+
 <?php
 // Read JSON data from file
 $jsonFile = 'for.json';
@@ -49,6 +49,7 @@ if ($data !== null) {
     echo "Failed to decode JSON from file. Error: " . json_last_error_msg();
 }
 ?>
- <?php
+
+<?php
     require("../headandfooter/footer.php");
     ?>
