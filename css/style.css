@@ -25,4 +25,18 @@
     color: white;
   }
 
+.text{
+    font-size: 50px;
+}
 
+.perText {
+    font-size: 20px;
+    color: #999;
+}
+.img{
+    display: block;
+    margin: auto;
+}
+.perText h3{
+    color: black;
+}
