@@ -50,20 +50,21 @@ require("headandfooter/head.php");
         )
     ); ?>
 
+    <div class="row">
+
     <div class="col-md-3 col-sm-6 col-xs-12 float-shadow" style="background-color:gray; ">
 
             <?php
             for ($i = 0; $i < 4; $i++) {
-                for ($s = 0; $s < 4; $s++) {?>
-                    <div class="price_table_container">
-                    <?php
-                    echo $price_table_heading[$s][$i];
+                for ($s = 0; $s < 4; $s++) {
+                   echo' <div class="price_table_container">'.
+                        $price_table_heading[$s][$i];
                     
-                                    }
-                                    echo"<br><hr>";?>
-           <?php }
+                    } 
+                }
                     ?>
             </div>
+        </div>
         </div>
     </div>
 </div>
