@@ -20,10 +20,10 @@
     <div class="container">
         <ul class="nav justify-content-end">
             <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#"><i class="bi bi-person-fill"></i>เข้าสู่ระบบ</a>
+                <a class="nav-link active" aria-current="page" href="login/login.php"><i class="bi bi-person-fill"></i>เข้าสู่ระบบ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " aria-current="page" href="#"><i class="bi bi-person-fill-add"></i>สมัคสมาชิก</a>
+                <a class="nav-link " aria-current="page" href="login/apply.php"><i class="bi bi-person-fill-add"></i>สมัคสมาชิก</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link " aria-current="page" href="#"><i class="bi bi-facebook"></i></a>
