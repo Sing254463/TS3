@@ -1,0 +1,40 @@
+.col-md-3.col-sm-6.col-xs-12.float-shadow {
+    background-color: antiquewhite;
+    display: inline-flex;
+}
+
+.price_table_box {
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+
+.lvl-one { 
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.lvl-two{
+    background-color: rgb(241, 53, 6);
+    
+}
+
+.lvl-three{
+    background-color: rgb(120, 192, 118);
+}
+
+.lvl-four{
+    background-color: rgb(83, 50, 42);
+    
+}
+
+.price_table_body {
+    background-color: rgb(82, 82, 77);
+
+}
+
+
+
+.row {
+    background-color: blueviolet;
+}
